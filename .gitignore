@@ -292,3 +292,5 @@ redplus_interview/media/
 
 .env
 .envs/*
+
+.vscode/
